@@ -1,6 +1,6 @@
 # CS4U - Computer Science 4 You
 
-![CS4U Banner]()  <!-- Replace with actual banner URL -->
+![CS4U Banner](https://github.com/CS4UNetwork/.github/blob/main/assets/cs4u-banner.png)
 
 Welcome to **CS4U** - Computer Science 4 You! 🎓💻
 
@@ -28,7 +28,7 @@ At CS4U, we believe that every student deserves access to quality educational re
 ## Connect With Us
 
 - **GitHub Organization**: [CS4U](https://github.com/CS4UNetwork)
-- **Website**: [www.cs4u.org](http://www.cs4u.me) *(coming soon)*
+- **Website**: [www.cs4u.me](http://www.cs4u.me) *(coming soon)*
 - **Email**: support@cs4u.me
 
 ## Code of Conduct
